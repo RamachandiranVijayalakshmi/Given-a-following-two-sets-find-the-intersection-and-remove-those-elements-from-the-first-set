@@ -1,0 +1,1 @@
+# Given-a-following-two-sets-find-the-intersection-and-remove-those-elements-from-the-first-set
